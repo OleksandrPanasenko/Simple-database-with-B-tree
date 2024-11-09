@@ -104,6 +104,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form5";
             Text = "FormDeleteRecord";
+            FormClosing += Form5_FormClosing;
             ResumeLayout(false);
             PerformLayout();
         }

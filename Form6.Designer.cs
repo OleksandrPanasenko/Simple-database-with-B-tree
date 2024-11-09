@@ -142,6 +142,7 @@
             Controls.Add(button1);
             Name = "Form6";
             Text = "FormAutoFill";
+            FormClosing += Form6_FormClosing;
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
             ResumeLayout(false);
             PerformLayout();

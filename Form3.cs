@@ -53,5 +53,14 @@ namespace Database_B_tree
                 }
             }
         }
+
+        private void Form3_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Form1.Instance.Close();
+            Form2.Instance.Close();
+            Form4.Instance.Close();
+            Form5.Instance.Close();
+            Form6.Instance.Close();
+        }
     }
 }

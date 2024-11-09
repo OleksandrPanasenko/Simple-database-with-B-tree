@@ -33,15 +33,26 @@ namespace Database_B_tree
             }
             else
             {
-                if(radioButton1.Checked)
+                button1.Enabled = false;
+                if (radioButton1.Checked)
                 {
                     Form1.database.FillDatabase((int)numericUpDown1.Value);
                 }
-                if(radioButton2.Checked)
+                if (radioButton2.Checked)
                 {
                     Form1.database.FillDatabaseBrainrot((int)numericUpDown1.Value);
                 }
+                button1.Enabled = true;
             }
+        }
+
+        private void Form6_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Form1.Instance.Close();
+            Form2.Instance.Close();
+            Form3.Instance.Close();
+            Form4.Instance.Close();
+            Form5.Instance.Close();
         }
     }
 }

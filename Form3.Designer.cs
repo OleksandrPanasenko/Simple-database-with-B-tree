@@ -51,18 +51,18 @@
             // 
             // textBox3
             // 
-            textBox3.Enabled = false;
             textBox3.Location = new Point(89, 233);
             textBox3.Multiline = true;
             textBox3.Name = "textBox3";
+            textBox3.ReadOnly = true;
             textBox3.Size = new Size(184, 110);
             textBox3.TabIndex = 20;
             // 
             // textBox2
             // 
-            textBox2.Enabled = false;
             textBox2.Location = new Point(89, 180);
             textBox2.Name = "textBox2";
+            textBox2.ReadOnly = true;
             textBox2.Size = new Size(184, 27);
             textBox2.TabIndex = 19;
             // 
@@ -127,6 +127,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form3";
             Text = "FormFindByPlace";
+            FormClosing += Form3_FormClosing;
             Load += Form3_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
             ResumeLayout(false);

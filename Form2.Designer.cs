@@ -172,6 +172,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form2";
             Text = "FormGetRecord";
+            FormClosing += Form2_FormClosing;
             ResumeLayout(false);
             PerformLayout();
         }

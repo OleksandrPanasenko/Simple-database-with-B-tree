@@ -99,6 +99,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             Text = "Database with B-tree";
+            FormClosing += Form1_FormClosing;
             ResumeLayout(false);
         }
 

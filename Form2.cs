@@ -38,7 +38,7 @@ namespace Database_B_tree
         private void button1_Click(object sender, EventArgs e)
         {
             string index = textBox1.Text;
-            RecordDatabase record=Form1.database.GetRecord(index);
+            RecordDatabase record = Form1.database.GetRecord(index);
             if (record != null)
             {
                 label5.Text = record.place.ToString();
@@ -50,6 +50,15 @@ namespace Database_B_tree
             {
                 MessageBox.Show("Record wasn't found!");
             }
+        }
+
+        private void Form2_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Form1.Instance.Close();
+            Form3.Instance.Close();
+            Form4.Instance.Close();
+            Form5.Instance.Close();
+            Form6.Instance.Close();
         }
     }
 }

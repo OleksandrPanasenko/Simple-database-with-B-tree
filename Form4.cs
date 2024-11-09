@@ -54,5 +54,14 @@ namespace Database_B_tree
         {
             textBox3.Text = Form1.database.RandomString(100);
         }
+
+        private void Form4_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Form1.Instance.Close();
+            Form2.Instance.Close();
+            Form3.Instance.Close();
+            Form5.Instance.Close();
+            Form6.Instance.Close();
+        }
     }
 }

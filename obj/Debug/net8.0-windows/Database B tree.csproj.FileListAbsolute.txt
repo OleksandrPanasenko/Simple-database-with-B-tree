@@ -1,17 +1,5 @@
 D:\Алгоритми\Lab 3 B tree database\Database B tree\bin\Debug\net8.0-windows\Database B tree.exe
-D:\Алгоритми\Lab 3 B tree database\Database B tree\bin\Debug\net8.0-windows\Database B tree.deps.json
-D:\Алгоритми\Lab 3 B tree database\Database B tree\bin\Debug\net8.0-windows\Database B tree.runtimeconfig.json
 D:\Алгоритми\Lab 3 B tree database\Database B tree\bin\Debug\net8.0-windows\Database B tree.dll
-D:\Алгоритми\Lab 3 B tree database\Database B tree\bin\Debug\net8.0-windows\Database B tree.pdb
-D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.GeneratedMSBuildEditorConfig.editorconfig
-D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.AssemblyInfoInputs.cache
-D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.AssemblyInfo.cs
-D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.csproj.CoreCompileInputs.cache
-D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.dll
-D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\refint\Database B tree.dll
-D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.pdb
-D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.genruntimeconfig.cache
-D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\ref\Database B tree.dll
 D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database_B_tree.Form1.resources
 D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database_B_tree.Form2.resources
 D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database_B_tree.Form3.resources
@@ -19,3 +7,16 @@ D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-win
 D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database_B_tree.Form5.resources
 D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database_B_tree.Form6.resources
 D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.csproj.GenerateResource.cache
+D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.AssemblyInfoInputs.cache
+D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.AssemblyInfo.cs
+D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.csproj.CoreCompileInputs.cache
+D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.sourcelink.json
+D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.dll
+D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\refint\Database B tree.dll
+D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.pdb
+D:\Алгоритми\Lab 3 B tree database\Database B tree\bin\Debug\net8.0-windows\Database B tree.deps.json
+D:\Алгоритми\Lab 3 B tree database\Database B tree\bin\Debug\net8.0-windows\Database B tree.runtimeconfig.json
+D:\Алгоритми\Lab 3 B tree database\Database B tree\bin\Debug\net8.0-windows\Database B tree.pdb
+D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\Database B tree.genruntimeconfig.cache
+D:\Алгоритми\Lab 3 B tree database\Database B tree\obj\Debug\net8.0-windows\ref\Database B tree.dll

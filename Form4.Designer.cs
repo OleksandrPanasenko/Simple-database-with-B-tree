@@ -150,6 +150,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form4";
             Text = "FormAddRecord";
+            FormClosed += Form4_FormClosed;
             ResumeLayout(false);
             PerformLayout();
         }
