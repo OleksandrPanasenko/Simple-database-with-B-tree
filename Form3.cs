@@ -31,9 +31,11 @@ namespace Database_B_tree
             try
             {
                 RecordDatabase record = Form1.database.GetRecord((int)numericUpDown1.Value);
-                textBox2.Text = record.Index;
-                textBox3.Text = record.Text;
-                label6.Text = Node.FileAccesses.ToString();
+                if (record != null)
+                {
+                    textBox2.Text = record.Index;
+                    textBox3.Text = record.Text;
+                }
             }
             catch (Exception ex)
             {
