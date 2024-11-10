@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Database B tree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8711823732888a68ff17e5343d5724aee4e04d59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59218e6415c39330b8233e023b02978a1e24019b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Database B tree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Database B tree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

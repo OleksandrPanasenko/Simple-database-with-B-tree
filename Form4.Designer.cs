@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form4));
             label6 = new Label();
             textBox3 = new TextBox();
             textBox2 = new TextBox();
@@ -146,6 +147,7 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(button1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form4";
             Text = "FormAddRecord";
             FormClosed += Form4_FormClosed;

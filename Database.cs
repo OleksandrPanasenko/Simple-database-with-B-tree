@@ -61,7 +61,14 @@ namespace Database_B_tree{
             SaveInfo();    
         }
         public void DeleteRecord(string Index){
+            Record record = tree.Find(Index);
             tree.Delete(Index);
+            using (FileStream overwriter = new FileStream(StorageFile, FileMode.Open, FileAccess.Write))
+            {
+                overwriter.Seek(sizeof(Int32)+record.Place*RecordDatabase.ByteSize, SeekOrigin.Begin);
+                overwriter.Write(new byte[RecordDatabase.ByteSize]);
+            }
+            SaveInfo();
         }
         public void FillDatabase(int NumberRecords){
             for(int i=0;i<NumberRecords;i++){
@@ -87,6 +94,20 @@ namespace Database_B_tree{
                 Console.WriteLine($"{i} elements added");
             }
         }
+        public void DeleteDatabase()
+        {
+            for(int i = 0; i < NumberRecords; i++)
+            {
+                RecordDatabase record = GetRecord(i);
+                if (record != null)
+                {
+                    DeleteRecord(record.Index);
+                }
+            }
+            File.Delete(StorageFile);
+            tree.Head.NodeFileName = "Head.txt";
+            Initialize();
+        }
         public RecordDatabase GetRecord(string index){
             Record TreeRecord=tree.Find(index);
             if(TreeRecord==null){return null;}
@@ -97,6 +118,7 @@ namespace Database_B_tree{
                 reader.Seek(sizeof(Int32)+place*RecordDatabase.ByteSize, SeekOrigin.Current);
                 byte[] buffer=new byte[RecordDatabase.ByteSize];
                 reader.Read(buffer, 0, RecordDatabase.ByteSize);
+                if (buffer.SequenceEqual(new byte[RecordDatabase.ByteSize])) return null;
                 RecordDatabase ToReturn= new RecordDatabase(buffer);
                 ToReturn.place=place;
                 return ToReturn;

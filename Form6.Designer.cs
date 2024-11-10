@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form6));
             label7 = new Label();
             label6 = new Label();
             button2 = new Button();
@@ -90,6 +91,7 @@
             // numericUpDown1
             // 
             numericUpDown1.Location = new Point(309, 146);
+            numericUpDown1.Maximum = new decimal(new int[] { 10000, 0, 0, 0 });
             numericUpDown1.Name = "numericUpDown1";
             numericUpDown1.Size = new Size(150, 27);
             numericUpDown1.TabIndex = 26;
@@ -103,6 +105,7 @@
             checkBox1.TabIndex = 27;
             checkBox1.Text = "Delete Previous Content";
             checkBox1.UseVisualStyleBackColor = true;
+            checkBox1.CheckedChanged += checkBox1_CheckedChanged;
             // 
             // radioButton1
             // 
@@ -140,6 +143,7 @@
             Controls.Add(button2);
             Controls.Add(label4);
             Controls.Add(button1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form6";
             Text = "FormAutoFill";
             FormClosing += Form6_FormClosing;

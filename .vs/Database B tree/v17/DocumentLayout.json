@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|d:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\lab 3 b tree database\\database b tree\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -23,12 +19,52 @@
       "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|d:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\lab 3 b tree database\\database b tree\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|d:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\lab 3 b tree database\\database b tree\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,36 +75,12 @@
       "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:Form6.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,19 +95,7 @@
       "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:recorddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\op101\\AppData\\Local\\Temp\\.vsdbgsrc\\48d55bb7189bc949ee7633d8f0c0b9278f89982a\\ApplicationConfiguration.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -123,10 +123,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form6.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:Form6.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form5.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
-      "RelativeMoniker": "D:0:0:{B9D8E89B-DC5D-4F60-A756-B1D42F3F2652}|Database B tree.csproj|solutionrelative:Form5.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -144,20 +140,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form4.cs",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form4.cs",
-              "RelativeDocumentMoniker": "Form4.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form4.cs",
-              "RelativeToolTip": "Form4.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAhwEAAAAAMAAAA",
+              "DocumentIndex": 3,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form5.cs [Design]",
+              "RelativeToolTip": "Form5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T13:49:21.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T17:27:35.569Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form4.cs",
               "RelativeDocumentMoniker": "Form4.cs",
@@ -170,44 +165,169 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:14:44.309Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:09:10.516Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form6.cs [Design]",
+              "RelativeToolTip": "Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:36:46.622Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:20:43.414Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswEYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:21:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Tree.cs",
+              "RelativeDocumentMoniker": "Tree.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Tree.cs",
+              "RelativeToolTip": "Tree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:55:07.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:26:36.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAawA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:58:28.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form6.cs",
+              "RelativeToolTip": "Form6.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAEwCEAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:42:32.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:20:29.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Form5.cs",
               "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form5.cs",
               "RelativeDocumentMoniker": "Form5.cs",
               "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form5.cs",
               "RelativeToolTip": "Form5.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAIAzwB8AAAAMAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAawCkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T22:47:19.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form3.Designer.cs",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form3.Designer.cs",
-              "RelativeDocumentMoniker": "Form3.Designer.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form3.Designer.cs",
-              "RelativeToolTip": "Form3.Designer.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAApwLcAAAAfAAAA",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAawB0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:00:16.464Z",
+              "WhenOpened": "2024-11-10T14:11:46.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form5.cs [Design]",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form5.cs",
-              "RelativeDocumentMoniker": "Form5.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form5.cs [Design]",
-              "RelativeToolTip": "Form5.cs [Design]",
+              "DocumentIndex": 14,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAhwEAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T17:27:35.569Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-10T13:49:21.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Form4.Designer.cs",
               "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form4.Designer.cs",
               "RelativeDocumentMoniker": "Form4.Designer.cs",
@@ -220,19 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form6.cs",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form6.cs",
-              "RelativeDocumentMoniker": "Form6.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form6.cs",
-              "RelativeToolTip": "Form6.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAlwDQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T21:42:32.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "Form5.Designer.cs",
               "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form5.Designer.cs",
               "RelativeDocumentMoniker": "Form5.Designer.cs",
@@ -245,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "Form6.Designer.cs",
               "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form6.Designer.cs",
               "RelativeDocumentMoniker": "Form6.Designer.cs",
@@ -253,33 +361,24 @@
               "RelativeToolTip": "Form6.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T17:17:10.356Z"
+              "WhenOpened": "2024-11-09T17:17:10.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form6.cs [Design]",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form6.cs",
-              "RelativeDocumentMoniker": "Form6.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form6.cs [Design]",
-              "RelativeToolTip": "Form6.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T21:36:46.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Form2.resx",
               "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form2.resx",
               "RelativeDocumentMoniker": "Form2.resx",
               "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form2.resx",
               "RelativeToolTip": "Form2.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-11-09T14:37:12.788Z"
+              "WhenOpened": "2024-11-09T14:37:12.788Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -287,71 +386,12 @@
               "RelativeToolTip": "Form2.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAlwDEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T14:25:07.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Tree.cs",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Tree.cs",
-              "RelativeDocumentMoniker": "Tree.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Tree.cs",
-              "RelativeToolTip": "Tree.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T07:55:07.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form3.cs",
-              "RelativeDocumentMoniker": "Form3.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form3.cs",
-              "RelativeToolTip": "Form3.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAD4vx4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:00:26.055Z",
+              "WhenOpened": "2024-11-09T14:25:07.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form2.cs [Design]",
-              "RelativeToolTip": "Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T14:14:44.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Database.cs",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Database.cs",
-              "RelativeDocumentMoniker": "Database.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Database.cs",
-              "RelativeToolTip": "Database.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T17:21:05.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Node.cs",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Node.cs",
-              "RelativeDocumentMoniker": "Node.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Node.cs",
-              "RelativeToolTip": "Node.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAwwGwAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T17:20:29.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Record.cs",
               "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Record.cs",
               "RelativeDocumentMoniker": "Record.cs",
@@ -363,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
@@ -371,35 +411,12 @@
               "RelativeToolTip": "Form2.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T14:37:10.561Z"
+              "WhenOpened": "2024-11-09T14:37:10.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T17:26:36.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T21:58:28.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "RecordDatabase.cs",
               "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\RecordDatabase.cs",
               "RelativeDocumentMoniker": "RecordDatabase.cs",
@@ -411,24 +428,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ApplicationConfiguration.g.cs",
               "DocumentMoniker": "C:\\Users\\op101\\AppData\\Local\\Temp\\.vsdbgsrc\\48d55bb7189bc949ee7633d8f0c0b9278f89982a\\ApplicationConfiguration.g.cs",
               "ToolTip": "C:\\Users\\op101\\AppData\\Local\\Temp\\.vsdbgsrc\\48d55bb7189bc949ee7633d8f0c0b9278f89982a\\ApplicationConfiguration.g.cs [Read Only]",
               "ViewState": "AQIAAAkAAAAAAAAAAAAawBcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T07:52:26.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T21:20:43.414Z"
             },
             {
               "$type": "Document",
@@ -450,7 +456,8 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AQIAAHEAAAAAAAAAAAAAAHEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T13:58:54.732Z"
+              "WhenOpened": "2024-11-09T13:58:54.732Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -484,18 +491,7 @@
               "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form6.resx",
               "RelativeToolTip": "Form6.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-11-09T17:17:10.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Form5.resx",
-              "DocumentMoniker": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form5.resx",
-              "RelativeDocumentMoniker": "Form5.resx",
-              "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form5.resx",
-              "RelativeToolTip": "Form5.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-11-09T17:17:08.359Z",
+              "WhenOpened": "2024-11-09T17:17:10.062Z",
               "EditorCaption": ""
             },
             {
@@ -519,7 +515,8 @@
               "ToolTip": "D:\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\\Lab 3 B tree database\\Database B tree\\Form1.resx",
               "RelativeToolTip": "Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-11-09T13:58:53.257Z"
+              "WhenOpened": "2024-11-09T13:58:53.257Z",
+              "EditorCaption": ""
             }
           ]
         }

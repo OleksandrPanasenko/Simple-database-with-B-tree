@@ -140,7 +140,7 @@ namespace Database_B_tree
             if(FatherNode is not null){
                 int position=FatherNode.ChildrenFileNames.IndexOf(NodeFileName);
                 if(position<FatherNode.ChildrenFileNames.Count-1){
-                    return new Node(FatherNode.ChildrenFileNames[position+1]);
+                    return new Node(FatherNode,FatherNode.ChildrenFileNames[position+1]);
                 }
 
             }
@@ -150,7 +150,7 @@ namespace Database_B_tree
             if(FatherNode is not null){
                 int position=FatherNode.ChildrenFileNames.IndexOf(NodeFileName);
                 if(position>0){
-                    return new Node(FatherNode.ChildrenFileNames[position-1]);
+                    return new Node(FatherNode,FatherNode.ChildrenFileNames[position-1]);
                 }
 
             }

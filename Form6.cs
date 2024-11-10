@@ -27,16 +27,18 @@ namespace Database_B_tree
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Node.FileAccesses = 0;
             if (checkBox1.Checked)
             {
-
+                Form1.database.DeleteDatabase();
+                MessageBox.Show($"Database deleted succesfully! {Node.FileAccesses} file accesses");
             }
             Node.FileAccesses = 0;
             button1.Enabled = false;
             if (radioButton1.Checked)
-                {
-                    Form1.database.FillDatabase((int)numericUpDown1.Value);
-                }
+            {
+                Form1.database.FillDatabase((int)numericUpDown1.Value);
+            }
             else if (radioButton2.Checked)
             {
                 Form1.database.FillDatabaseBrainrot((int)numericUpDown1.Value);
@@ -47,7 +49,7 @@ namespace Database_B_tree
             }
             label6.Text = Node.FileAccesses.ToString();
             button1.Enabled = true;
-            
+
         }
 
         private void Form6_FormClosing(object sender, FormClosingEventArgs e)
@@ -57,6 +59,11 @@ namespace Database_B_tree
             Form3.Instance.Close();
             Form4.Instance.Close();
             Form5.Instance.Close();
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

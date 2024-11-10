@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form3));
             label7 = new Label();
             label6 = new Label();
             label5 = new Label();
@@ -146,6 +147,7 @@
             // numericUpDown1
             // 
             numericUpDown1.Location = new Point(50, 67);
+            numericUpDown1.Maximum = new decimal(new int[] { 10000, 0, 0, 0 });
             numericUpDown1.Name = "numericUpDown1";
             numericUpDown1.Size = new Size(150, 27);
             numericUpDown1.TabIndex = 24;
@@ -167,6 +169,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(button1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form3";
             Text = "Form3";
             FormClosing += Form3_FormClosing;
