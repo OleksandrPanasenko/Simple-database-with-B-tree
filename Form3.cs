@@ -19,11 +19,6 @@ namespace Database_B_tree
             Instance = this;
         }
 
-        private void Form3_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void button2_Click(object sender, EventArgs e)
         {
             Instance.Hide();
@@ -32,25 +27,17 @@ namespace Database_B_tree
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if ((int)numericUpDown1.Value >= Form1.database.NumberRecords)
+            Node.FileAccesses = 0;
+            try
             {
-                MessageBox.Show($"Maximum position place is {Form1.database.NumberRecords - 1}");
+                RecordDatabase record = Form1.database.GetRecord((int)numericUpDown1.Value);
+                textBox2.Text = record.Index;
+                textBox3.Text = record.Text;
+                label6.Text = Node.FileAccesses.ToString();
             }
-            else
+            catch (Exception ex)
             {
-                try
-                {
-                    RecordDatabase record = Form1.database.GetRecord((int)numericUpDown1.Value);
-                    if (record != null)
-                    {
-                        textBox2.Text = record.Index;
-                        textBox3.Text = record.Text;
-                    }
-                }
-                catch
-                {
-                    MessageBox.Show("An error occurred");
-                }
+                MessageBox.Show(ex.Message);
             }
         }
 

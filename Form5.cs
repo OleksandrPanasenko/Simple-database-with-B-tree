@@ -21,7 +21,7 @@ namespace Database_B_tree
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Instance.Close();
+            Instance.Hide();
             Form1.Instance.Show();
         }
 
@@ -32,6 +32,19 @@ namespace Database_B_tree
             Form3.Instance.Close();
             Form4.Instance.Close();
             Form6.Instance.Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                Node.FileAccesses = 0;
+                Form1.database.DeleteRecord(textBox1.Text);
+                label6.Text = Node.FileAccesses.ToString();
+                MessageBox.Show("Deleted succesfully!");
+            } catch (Exception ex){
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }

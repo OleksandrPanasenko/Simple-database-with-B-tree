@@ -41,7 +41,7 @@ namespace Database_B_tree{
             }
             byte[] ToReturn = new byte[ByteSize];
             Array.Copy(IndexBytesFixed,ToReturn,IndexByteSize);
-            Array.Copy(TextBytes, 0, ToReturn, IndexByteSize, TextByteSize);
+            Array.Copy(TextBytesFixed, 0, ToReturn, IndexByteSize, TextByteSize);
             return ToReturn;
         }
     }

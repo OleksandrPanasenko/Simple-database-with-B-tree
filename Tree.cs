@@ -114,6 +114,7 @@ using Database_B_tree;
                     for(int i=0;i<location.records.Count;i++){
                         if(string.Compare(index,location.records[i].Index)==0){
                             location.records.RemoveAt(i);
+                            location.UpdateFile();
                             if(location.records.Count<Tvalue){
                                 Node left=location.LeftNeighbour();
                                 Node right=location.RightNeighbour();

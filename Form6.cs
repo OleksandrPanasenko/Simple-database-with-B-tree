@@ -31,19 +31,23 @@ namespace Database_B_tree
             {
 
             }
-            else
-            {
-                button1.Enabled = false;
-                if (radioButton1.Checked)
+            Node.FileAccesses = 0;
+            button1.Enabled = false;
+            if (radioButton1.Checked)
                 {
                     Form1.database.FillDatabase((int)numericUpDown1.Value);
                 }
-                if (radioButton2.Checked)
-                {
-                    Form1.database.FillDatabaseBrainrot((int)numericUpDown1.Value);
-                }
-                button1.Enabled = true;
+            else if (radioButton2.Checked)
+            {
+                Form1.database.FillDatabaseBrainrot((int)numericUpDown1.Value);
             }
+            else
+            {
+                MessageBox.Show("Select radiobutton!");
+            }
+            label6.Text = Node.FileAccesses.ToString();
+            button1.Enabled = true;
+            
         }
 
         private void Form6_FormClosing(object sender, FormClosingEventArgs e)

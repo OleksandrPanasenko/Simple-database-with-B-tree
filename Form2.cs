@@ -37,12 +37,13 @@ namespace Database_B_tree
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Node.FileAccesses = 0;
             string index = textBox1.Text;
             RecordDatabase record = Form1.database.GetRecord(index);
             if (record != null)
             {
                 label5.Text = record.place.ToString();
-                //label6.Text = record.place.ToString();
+                label6.Text = Node.FileAccesses.ToString();
                 textBox2.Text = record.Index;
                 textBox3.Text = record.Text;
             }

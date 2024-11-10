@@ -7,6 +7,7 @@ namespace Database_B_tree
         public string NodeFileName;
         public List<Record> records;
         public List<string> ChildrenFileNames;
+        public static int FileAccesses;
         public bool IsLeaf{
             get { return !(ChildrenFileNames.Count>0); }
         }
@@ -18,7 +19,7 @@ namespace Database_B_tree
             FatherNode=fatherNode;
         }
         public Node(string fileAddress): this(){
-            
+            FileAccesses++;
             NodeFileName=fileAddress;
             if(File.Exists(fileAddress)){
                 StreamReader reader=new StreamReader(fileAddress);
@@ -61,7 +62,7 @@ namespace Database_B_tree
             }
             for(int i=0;i<records.Count-1;i++){
                 if (record.Compare(records[i])>0&&record.Compare(records[i+1])<0){
-                    records.Insert(i, record);
+                    records.Insert(i+1, record);
                     UpdateFile();
                     return;
                 }
@@ -99,11 +100,13 @@ namespace Database_B_tree
                 toFile+=child+"\n";
             }
             StreamWriter fileWriter=new StreamWriter(NodeFileName);
+            FileAccesses++;
             fileWriter.Write(toFile);
             fileWriter.Close();
         }
         public void Delete(){
             File.Delete(NodeFileName);
+            FileAccesses++;
         }
         public void SplitNode(){
             if(records.Count>4&&records.Count%2==1){
@@ -165,7 +168,7 @@ namespace Database_B_tree
                 else{
                     leftBrother=LeftNeighbour();
                 }
-                if(leftBrother.records.Count+rightBrother.records.Count+1<tValue){
+                if(leftBrother.records.Count+rightBrother.records.Count+1<=tValue*2){
                     int place=FatherNode.ChildrenFileNames.IndexOf(leftBrother.NodeFileName);
                     leftBrother.records.Add(FatherNode.records[place]);
                     FatherNode.records.RemoveAt(place);
